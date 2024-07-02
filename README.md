@@ -25,4 +25,4 @@ Experiment Roster (df_final_experiment_clients): A list revealing which clients 
 |PPT | Vanguard Presentation.pptx   |Project Presentation in PowerPoint Format|
 ---
 **Source**:
-https://docs.google.com/presentation/d/1FEEtlaKERvvBItWp0fc62rF65e8Pg7_KLVWFsuYbblM/edit?usp=sharing
+[https://docs.google.com/presentation/d/1FEEtlaKERvvBItWp0fc62rF65e8Pg7_KLVWFsuYbblM/edit?usp=sharing](https://docs.google.com/presentation/d/1Nj4g1VmmU7TMWJ4dFtoqNVaLV-6qkMzWRLKwP-Z2BnY/edit?usp=sharing)
