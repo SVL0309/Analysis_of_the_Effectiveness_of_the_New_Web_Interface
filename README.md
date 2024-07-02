@@ -22,7 +22,7 @@ Experiment Roster (df_final_experiment_clients): A list revealing which clients 
 | Cleaned dataset   | Vanguard_Cleaned_Datatype.csv  | CSV file of final datasets     |
 |Python   | Vanguard Data Cleaning and Data Wrangling.ipynb  |Jupyter notebook - the process of cleaning and transforming the original data and exporting final csv files|
 |Tableu  | Vanguard Interface Analysis.twbx   |Tableau - includes data, worksheets, dashboards and the story of visualizations.|
-
+|PPT | Vanguard Presentation.pptx   |Project Presentation in PowerPoint Format|
 ---
 **Source**:
 https://docs.google.com/presentation/d/1FEEtlaKERvvBItWp0fc62rF65e8Pg7_KLVWFsuYbblM/edit?usp=sharing
