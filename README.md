@@ -16,10 +16,10 @@ Experiment Roster (df_final_experiment_clients): A list revealing which clients 
 | Folder | File | Description |
 |-----------------|-----------------|-----------------|
 | Dataset    | df_final_demo    |Demographics like age, gender, and account details of our clients     |
-|     |df_final_web_data_pt_1     |A detailed trace of client interactions online, divided into two parts: pt_1 and pt_2. It’s recommended to merge these two files prior to a comprehensive data analysis |
-|     |df_final_web_data_pt_2     |A detailed trace of client interactions online, divided into two parts: pt_1 and pt_2. It’s recommended to merge these two files prior to a comprehensive data analysis|
-|     |df_final_experiment_clients    |A list revealing which clients were part of the grand experiment|
-| Cleaned dataset   |     |Csv files of raw and final datasets     |
+|     | df_final_web_data_pt_1     |A detailed trace of client interactions online, divided into two parts: pt_1 and pt_2. It’s recommended to merge these two files prior to a comprehensive data analysis |
+|     | df_final_web_data_pt_2     |A detailed trace of client interactions online, divided into two parts: pt_1 and pt_2. It’s recommended to merge these two files prior to a comprehensive data analysis|
+|     | df_final_experiment_clients    |A list revealing which clients were part of the grand experiment|
+| Cleaned dataset   | Vanguard_Cleaned_Datatype.csv  | CSV file of final datasets     |
 |Python   | Vanguard Data Cleaning and Data Wrangling.ipynb  |Jupyter notebook - the process of cleaning and transforming the original data and exporting final csv files|
 |Tableu  | Vanguard Interface Analysis.twbx   |Tableau - includes data, worksheets, dashboards and the story of visualizations.|
 
