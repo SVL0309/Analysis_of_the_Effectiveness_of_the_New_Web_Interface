@@ -26,6 +26,7 @@ Three datasets will guide our journey:
 **Experiment Roster (df_final_experiment_clients)**: A list revealing which clients were part of the grand experiment.
 
 ---
+**Folder File Description**
 
 | Folder | File | Description |
 |-----------------|-----------------|-----------------|
