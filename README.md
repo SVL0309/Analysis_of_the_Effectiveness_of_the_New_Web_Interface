@@ -6,11 +6,11 @@ The goal of the project at Vanguard is to analyze the results of a digital exper
 
 **Technologies**:
 
-Statistical Analysis: scipy.stats
+**Statistical Analysis**: scipy.stats
 
-Data Visualization: seaborn, matplotlib.pyplot
+**Data Visualization**: seaborn, matplotlib.pyplot
 
-Data Presentation: Tableau
+**Data Presentation**: Tableau
 
 Applied statistical tests to assess the significance of the differences in completion rates and user satisfaction between the control and test groups. Visualized the results to provide clear insights into the 
 effectiveness of the new UI changes.
