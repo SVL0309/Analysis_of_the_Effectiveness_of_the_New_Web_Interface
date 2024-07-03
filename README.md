@@ -4,7 +4,7 @@
 **Objective**:
 The goal of the project at Vanguard is to analyze the results of a digital experiment conducted from 3/15/2017 to 6/20/2017. The experiment compares the effectiveness of Vanguard's traditional online process (Control Group) with a new, modern User Interface (UI) and in-context prompts (Test Group) to determine if the changes lead to higher process completion rates and a better user experience.
 
-**Technologies**:
+**Technologies**: Python (seaborn, matplotlib.pyplot, scipy.stats), Tableau
 
 **Statistical Analysis**: scipy.stats
 
