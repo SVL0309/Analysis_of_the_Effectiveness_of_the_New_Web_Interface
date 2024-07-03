@@ -4,6 +4,15 @@
 **Objective**:
 The goal of the project at Vanguard is to analyze the results of a digital experiment conducted from 3/15/2017 to 6/20/2017. The experiment compares the effectiveness of Vanguard's traditional online process (Control Group) with a new, modern User Interface (UI) and in-context prompts (Test Group) to determine if the changes lead to higher process completion rates and a better user experience.
 
+**Technologies**:
+Python (seaborn, matplotlib.pyplot, scipy.stats), Tableau
+
+Conducted an experiment to compare the effectiveness of Vanguard's traditional online process (Control Group) with a new, modern User Interface (UI) and in-context prompts (Test Group) to evaluate if the changes lead to higher process completion rates and better user experience. This project involved the following technologies:
+
+Statistical Analysis: scipy.stats
+Data Visualization: seaborn, matplotlib.pyplot
+Data Presentation: Tableau
+Applied statistical tests to assess the significance of the differences in completion rates and user satisfaction between the control and test groups. Visualized the results to provide clear insights into the effectiveness of the new UI changes.
 ---
 **Dataset**:
 There are three datasets that will guide our journey:
